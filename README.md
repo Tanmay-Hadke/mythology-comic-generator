@@ -4,7 +4,7 @@ An AI-powered, full-stack application that transforms modern-day dilemmas into a
 
 This project bridges the gap between ancient wisdom (like the Mahabharata and Ramayana) and contemporary struggles, utilizing local Large Language Models (LLMs) and Stable Diffusion.
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Cultural+Mythology+Comic+Generator+UI) *(Note: Add a screenshot of your Gradio UI here once pushed!)*
+![App Screenshot](intel_mac_comic_final(1).png) *(Note: Add a screenshot of your Gradio UI here once pushed!)*
 
 ## 🌍 Why This Project Matters
 In today's fast-paced, hyper-digital world, younger generations are increasingly losing connection to foundational cultural epics. Modern problems—like career anxiety, social media addiction, or imposter syndrome—often feel completely disconnected from ancient texts. 
